@@ -12,7 +12,7 @@
 - app rewriting.py is the newest version, less tested and has experimental stuff
 - app previous version.py is more stable but more boring
 
-## partial to-do list (somewhat in order of importance)
+## partial to-do list
 - make an executable so you don't have to install Python
 - refactor code, make it readable. (holy crap it's so bad)
 - explicit (via user interface) support for a 'storage' folder, and 'personal prompt.txt' and 'personal settings.txt' for custom default prompt and settings
