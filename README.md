@@ -8,10 +8,6 @@
 - multi generation
 - condition book
 
-## 2 versions:
-- app rewriting.py is the newest version, less tested and has experimental stuff
-- app previous version.py is more stable but more boring
-
 ## partial to-do list
 - make an executable so you don't have to install Python
 - refactor code, make it readable. (holy crap it's so bad)
