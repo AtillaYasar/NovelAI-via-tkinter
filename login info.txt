@@ -1,2 +1,0 @@
-email:goose@honk.ca
-password:honk!let_me_in!
