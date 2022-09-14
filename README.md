@@ -20,4 +20,4 @@ Feel free to message me for questions or feature requests. I can't promise to fu
 Criticism is welcome too.
 
 ## note
-Don't read the code, holy crap seriously don't read it.
+Code is pretty bad. Probably shouldn't read it..
