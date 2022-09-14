@@ -1,7 +1,7 @@
 # if you dont want to log in via the app every time, set login to False and put your authorization token here, after printing them
 login = True
 printAuthorization = False
-authorizationToken = 'Bearer a_secret_string'
+authorizationToken = 'a_secret_string'
 
 # module imports
 import json, requests, threading, ast, os, time
