@@ -6,10 +6,8 @@
 
 ## Current features
 - both versions have multi-generation
-- one version has "condition book", which is basically context injection (called lorebook entries) based on words that appear in the text (lorebook keys) and based on other lorebook entries that are activated, and some other things.
--    Youtube video showing it https://www.youtube.com/watch?v=sqTxQjpw0j8&&ab_channel=AtillaCodesStuff
-- another version has no conditionbook, but can create extra windows to have additional prompts running at the same time.
--    Youtube video showing it https://www.youtube.com/watch?v=k7Di4LKmm6I&feature=youtu.be&ab_channel=AtillaCodesStuff
+- one version has "condition book", which is basically context injection (called lorebook entries) based on words that appear in the text (lorebook keys) and based on other lorebook entries that are activated, and some other things. https://www.youtube.com/watch?v=sqTxQjpw0j8&&ab_channel=AtillaCodesStuff\
+- another version has no conditionbook, but can create extra windows to have additional prompts running at the same time. https://www.youtube.com/watch?v=k7Di4LKmm6I&feature=youtu.be&ab_channel=AtillaCodesStuff
 
 ## partial to-do list
 - make an executable so you don't have to install Python
