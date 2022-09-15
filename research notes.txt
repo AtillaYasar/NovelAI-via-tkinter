@@ -1,0 +1,20 @@
+model: krake, module: none, presets: none (meaning just temperature at 1)
+note: i wrote {maincontext} here instead of {context}, which is an update to the app i haven't pushed to github yet.
+
+	my favorite one. dont know if a dinkus is necessary or not.
+[ a story about ... ]
+{maincontext}
+[ a deep analysis of the story ]
+<name something from the story> is
+
+other good ones
+{maincontext}
+[ An analysis of the above story. ]
+What makes <something something> is
+
+{maincontext}
+What is your opinion on the above story?
+In my opinion,
+
+{maincontext}
+[ Style:
