@@ -1,6 +1,9 @@
 # NovelAI-via-tkinter
  use the text generator in NovelAI on your desktop
 
+## examples
+If you're just here to see how to use the API, look in the examples folder. https://github.com/AtillaYasar/NovelAI-via-tkinter/tree/main/examples
+
 ## The point of this app
  To use NovelAI models from your desktop, with some cool extra features
 
