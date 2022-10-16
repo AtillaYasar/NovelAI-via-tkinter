@@ -1,3 +1,6 @@
+# Warning
+the API url is (maybe temporarily?) wrong. so... if you wanna use this code, first fix that by checking out the browser's network tab :P
+
 # NovelAI-via-tkinter
  use the text generator in NovelAI on your desktop
 
